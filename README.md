@@ -11,7 +11,7 @@ _Does not include botnets._
 
 # Requirements:
 
-- [Python 3.12](https://www.python.org/downloads/)
+- [Python 3.x](https://www.python.org/downloads/)
 
 # Usage:
 ######
